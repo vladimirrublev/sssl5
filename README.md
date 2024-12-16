@@ -30,10 +30,6 @@
 
 ![image](https://github.com/vladimirrublev/sssl5/blob/main/screenshot/5.jpg)
 
-Устанавливает интерпретатор Perl:
-
-![image](https://github.com/vladimirrublev/sssl5/blob/main/screenshot/6.png)
-
 Запуск Nikto:
 
 ![image](https://github.com/vladimirrublev/sssl5/blob/main/screenshot/7.png)
@@ -44,9 +40,6 @@
 
 ![image](https://github.com/vladimirrublev/sssl5/blob/main/screenshot/9.png)
 
-Полная установка Yara:
-
-![image](https://github.com/vladimirrublev/sssl5/blob/main/screenshot/10.png)
 
 Конфигурационный файл активного реагирования под утилиту yara:
 
